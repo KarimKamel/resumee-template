@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-my-gray-blue {
+	background-color: #2c3e4e;
+}
+.text-my-gray-blue {
+	color: #2c3e4e;
+}
+
+.text-my-teal {
+	color: #6fb7cb;
+}
+.bg-my-teal {
+	background-color: #6fb7cb;
+}
+
+.my-gray {
+	color: #bebebe;
+}
